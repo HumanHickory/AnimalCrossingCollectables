@@ -1,0 +1,41 @@
+﻿Id,Name,Shadow Size,Start Time,End Time,Second Start Time,Second End Time,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
+1,Seaweed,Large,0,0,,,x,x,x,x,x,x,x,,,x,x,x
+2,Sea Grapes,Small,0,0,,,,,,,,x,x,x,x,,,
+3,Sea Cucumber,Medium,0,0,,,x,x,x,x,,,,,,,x,x
+4,Sea Pig,Small,16,9,,,x,x,,,,,,,,,x,x
+5,Sea Star,Small,0,0,,,x,x,x,x,x,x,x,x,x,x,x,x
+6,Sea Urchin,Small,0,0,,,,,,,x,x,x,x,x,,,
+7,Slate Pencil Urchin,Medium,16,9,,,,,,,x,x,x,x,x,,,
+8,Sea Anemone,large,0,0,,,x,x,x,x,x,x,x,x,x,x,x,x
+9,Moon Jellyfish,Small,0,0,,,,,,,,,x,x,x,,,
+10,Sea Slug,Tiny,0,0,,,x,x,x,x,x,x,x,x,x,x,x,x
+11,Pearl Oyster,Small,0,0,,,x,x,x,x,x,x,x,x,x,x,x,x
+12,Mussel,Small,0,0,,,,,,,,x,x,x,x,x,x,x
+13,Oyster,Small,0,0,,,x,x,,,,,,,x,x,x,x
+14,Scallop,Medium,0,0,,,x,x,x,x,x,x,x,x,x,x,x,x
+15,Whelk,Small,0,0,,,x,x,x,x,x,x,x,x,x,x,x,x
+16,Turban Shell,Small,0,0,,,,,x,x,x,,,,x,x,x,x
+17,Abalone,Medium,16,9,,,x,,,,,x,x,x,x,x,x,x
+18,Gigas Giant Clam,Very Large,0,0,,,,,,,x,x,x,x,x,,,
+19,Chambered Nautilius,Medium,16,9,,,,,x,x,x,x,,,x,x,x,
+20,Octopus,Medium,0,0,,,x,x,x,x,x,x,x,x,x,x,x,x
+21,Umbrella Octopus,Small,0,0,,,,,x,x,x,,,,x,x,x,
+22,Vampire Squid  ,Medium,16,9,,,,,,,x,x,x,x,,,,
+23,Firefly Squid,Tiny,21,4,,,,,x,x,x,x,,,,,,
+24,Gazami Crab,Medium,0,0,,,,,,,,x,x,x,x,x,x,
+25,Dungeness Crab,Medium,0,0,,,x,x,x,x,x,,,,,,x,x
+26,Snow Crab,Large,0,0,,,x,x,x,x,,,,,,,x,x
+27,Red King Crab,Large,0,0,,,x,x,x,,,,,,,,x,x
+28,Acorn Barnacle,Tiny,0,0,,,x,x,x,x,x,x,x,x,x,x,x,x
+29,Spider Crab,Very Large,0,0,,,,,x,x,,,,,,,,
+30,Tiger Prawn,Small,16,9,,,,,,,,x,x,x,x,,,
+31,Sweet Shrimp,Small,16,9,,,x,x,,,,,,,x,x,x,x
+32,Mantis Shrimp,Small,16,9,,,x,x,x,x,x,x,x,x,x,x,x,x
+33,Spiny Lobster,Large,21,4,,,,,,,,,,,,x,x,x
+34,Lobster,Large,0,0,,,x,,,x,x,x,,,,,,x
+35,Giant Isopod,Medium,9,16,20,4,,,,,,,x,x,x,x,,
+36,Horseshoe Crab,Medium,21,4,,,,,,,,,x,x,x,,,
+37,Sea Pineapple,Small,0,0,,,,,,x,x,x,x,x,,,,
+38,Spotted Garden Eel,Small,4,21,,,,,,,x,x,x,x,x,x,,
+39,Flatworm,Tiny,4,21,,,,,,,,,,x,x,,,
+40,Venus' Flower Basket,Medium,,,,,x,x,,,,,,,,x,x,x

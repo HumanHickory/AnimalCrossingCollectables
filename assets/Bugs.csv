@@ -1,0 +1,81 @@
+Id,Name,Location,Weather,Start Time,End Time,Second Start Time,Second End Time,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
+1,Common Butterfly,Flying,Any except rain,4,19,,,x,x,x,x,x,x,,,x,x,x,x
+2,Yellow Butterfly,Flying,Any except rain,4,19,,,,,x,x,x,x,x,x,x,x,x,x
+3,Tiger Butterfly,Flying,Any except rain,4,19,,,,,x,x,x,x,x,x,x,,,
+4,Peacock Butterfly,"Flying near blue, purple, and black flowers",Any except rain,4,19,,,,x,x,x,x,,,,,,,
+5,Common Bluebottle,Flying,Any except rain,4,19,,,,,,x,x,x,x,x,,,,
+6,Paper Kite Butterfly,Flying near flowers,Any except rain,8,19,,,x,x,x,x,x,x,x,x,x,x,x,x
+7,Great Purple Emperor,Flying near flowers,Any except rain,4,19,,,,,,,x,x,x,x,,,,
+8,Monarch Butterfly,Flying near flowers,Any except rain,4,17,,,,,,,,,,,x,x,x,
+9,Emperor Butterfly,Flying near flowers,Any except rain,17,8,,,x,x,x,,,x,x,x,x,,,x
+10,Agrias Butterfly,Flying near flowers,Any except rain,8,17,,,x,x,x,,,,,,x,x,x,x
+11,Rajah Brooke's Birdwing,Flying near flowers,Any except rain,8,17,,,x,x,,x,x,x,x,x,x,,,x
+12,Queen Alexandra's Birdwind,Flying near flowers,Any except rain,8,16,,,,,,,x,x,x,x,x,,,
+13,Moth,Flying near light sources,Any except rain,19,4,,,x,x,x,x,x,x,x,x,x,x,x,x
+14,Atlas Moth,On trees (any kind),Any weather,19,4,,,,,,x,x,x,x,x,x,,,
+15,Madagascan Sunset Moth,Flying near flowers,Any except rain,8,16,,,,,,x,x,x,x,x,x,,,
+16,Long Locus,On the ground,Any weather,8,19,,,,,,x,x,x,x,x,x,x,x,
+17,Migratory Locus,On the ground,Any weather,8,19,,,,,,,,,,x,x,x,x,
+18,Rice Grasshopper,On the ground,Any weather,8,19,,,,,,,,,,x,x,x,x,
+19,Grasshopper,On the ground,Any except rain,8,17,,,,,,,,,x,x,x,,,
+20,Cricket,On the ground,Any except rain,17,8,,,,,,,,,,,x,x,,
+21,Bell Cricket,On the ground,Any except rain,17,8,,,,,x,x,x,x,x,x,x,x,x,
+22,Mantis,On flowers,Any except rain,8,17,,,,,x,x,x,x,x,x,x,x,x,
+23,Orchid Mantis,On white flowers,Any except rain,8,17,,,,,x,x,x,x,x,x,x,x,x,
+24,Honeybee,Flying near flowers,Any except rain,8,17,,,,,x,x,x,x,x,,,,,
+25,Wasp,Shaking non-fruit hardwood trees or cedar trees,Any weather,0,0,,,x,x,x,x,x,x,x,x,x,x,x,x
+26,Brown Cicada,On trees (hardwood and cedar),Any weather,8,17,,,,,,,,,x,x,,,,
+27,Robus Cicada,On trees (hardwood and cedar),Any weather,8,17,,,,,,,,,x,x,,,,
+28,Giant Cicada,On trees (hardwood and cedar),Any weather,8,17,,,,,,,,,x,x,,,,
+29,Walker Cicada,On trees (hardwood and cedar),Any weather,8,17,,,,,,,,,,x,x,,,
+30,Evening Cicada,On trees (hardwood and cedar),Any weather,4,8,16,19,,,,,,,x,x,,,,
+31,Cicada Shell,On trees (hardwood and cedar),Any weather,0,0,,,,,,,,,x,x,,,,
+32,Red Dragonfly,Flying near water,Any except rain,8,19,,,,,,,,,,,x,x,,
+33,Darner Dragonfly,Flying near water,Any except rain,8,16,,,,,,x,x,x,x,x,x,x,,
+34,Banded Dragonfly,Flying near water,Any except rain,8,17,,,,,,,x,x,x,x,x,x,,
+35,Damselfly,Flying near water,Any except rain,0,0,,,x,x,,,,,,,,,x,x
+36,Firefly,Flying near water,Any except rain,19,4,,,,,,,,x,,,,,,
+37,Mole Cricket,Underground,Any weather,0,0,,,x,x,x,x,x,,,,,,x,x
+38,Pondskater,On rivers and ponds,Any weather,8,19,,,,,,,x,x,x,x,x,,,
+39,Diving Beetle,On rivers and ponds,Any weather,8,19,,,,,,,x,x,x,x,x,,,
+40,Giant Water Bug,On rivers and ponds,Any weather,19,8,,,,,,x,x,x,x,x,x,,,
+41,Stinkbug,On flowers,Any except rain,0,0,,,,,x,x,x,x,x,x,x,x,,
+42,Man-Faced Stink Bug,On flowers,Any except rain,19,8,,,,,x,x,x,x,x,x,x,x,,
+43,Ladybug,On flowers,Any except rain,8,17,,,,,x,x,x,x,,,,x,,
+44,Tiger Beetle,On the ground,Any except rain,0,0,,,,x,x,x,x,x,x,x,x,x,,
+45,Jewel Beetle,On tree stumps,Any except rain,0,0,,,,,,x,x,x,x,x,,,,
+46,Violin Beetle,On tree stumps,Any except rain,0,0,,,,,,,x,x,,,x,x,x,
+47,Citrus Long-Horned Beetle,On tree stumps,Any except rain,0,0,,,x,x,x,x,x,x,x,x,x,x,x,x
+48,Rosalia Batesi Beetle,On tree stumps,Any except rain,0,0,,,,,,,x,x,x,x,x,,,
+49,Blue Weevil Beetle,On palm trees,Any weather,0,0,,,,,,,,,x,x,,,,
+50,Dung Beetle,Pushing snowballs,Any weather,0,0,,,x,x,,,,,,,,,,x
+51,Earth-Boring Dung Beetle,On the ground,Any weather,0,0,,,,,,,,,x,x,x,,,
+52,Scarab Beetle,On trees (any kind),Any weather,23,8,,,,,,,,,x,x,,,,
+53,Drone Beetle,On trees (any kind),Any weather,0,0,,,,,,,,x,x,x,,,,
+54,Goliath Beetle,On palm trees,Any weather,17,8,,,,,,,,x,x,x,x,,,
+55,Saw Stag,On trees (any kind),Any weather,0,0,,,,,,,,,x,x,,,,
+56,Miyam Stag,On trees (any kind),Any weather,0,0,,,,,,,,,x,x,,,,
+57,Giant Stag,On trees (any kind),Any weather,23,8,,,,,,,,,x,x,,,,
+58,Rainbow Stag,On trees (any kind),Any weather,19,8,,,,,,,,x,x,x,x,,,
+59,Cyclommatus Stag,On palm trees,Any weather,17,8,,,,,,,,,x,x,,,,
+60,Golden Stag,On palm trees,Any weather,17,8,,,,,,,,,x,x,,,,
+61,Giraffe Stag,On palm trees,Any weather,17,8,,,,,,,,,x,x,,,,
+62,Horned Dynastid,On trees (any kind),Any weather,17,8,,,,,,,,,x,x,,,,
+63,Horned Atlas,On palm trees,Any weather,17,8,,,,,,,,,x,x,,,,
+64,Horned Elephant,On palm trees,Any weather,17,8,,,,,,,,,x,x,,,,
+65,Horned Hercules,On palm trees,Any weather,17,8,,,,,,,,,x,x,,,,
+66,Walking Stick,On trees (any kind),Any weather,4,8,17,19,,,,,,,x,x,x,x,x,
+67,Walking Leaf,Disguised under tree,Any weather,0,0,,,,,,,,,x,x,x,,,
+68,Bagworm,Shaking Trees (hardwood and cedar),Any weather,0,0,,,x,x,x,x,x,x,x,x,x,x,x,x
+69,Ant,On/near spoiled turnips/candy/lollipops,Any weather,0,0,,,x,x,x,x,x,x,x,x,x,x,x,x
+70,Hermit Crab,Disguised on shoreline,Any weather,19,8,,,x,x,x,x,x,x,x,x,x,x,x,x
+71,Wharf Roach,On beach rocks,Any weather,0,0,,,x,x,x,x,x,x,x,x,x,x,x,x
+72,Fly,Flying near trash or rotten turnips,Any weather,0,0,,,x,x,x,x,x,x,x,x,x,x,x,x
+73,Mosquito,Flying,Any except rain,17,4,,,,,,,,x,x,x,x,,,
+74,Flea,On villagers,Any weather,0,0,,,,,,x,x,x,x,x,x,x,x,
+75,Snail,On rocks and bushes,Rain only,0,0,,,x,x,x,x,x,x,x,x,x,x,x,x
+76,Pill Bug,From hitting rocks,Any weather,23,16,,,x,x,x,x,x,x,,,x,x,x,x
+77,Centipede,From hitting rocks,Any weather,16,23,,,x,x,x,x,x,x,,,x,x,x,x
+78,Spider,Shaking Trees,Any weather,19,8,,,x,x,x,x,x,x,x,x,x,x,x,x
+79,Tarantula,On the ground,Any weather,19,4,,,x,x,x,x,,,,,,,x,x
+80,Scorpion,On the ground,Any weather,19,4,,,,,,,x,x,x,x,x,x,,
