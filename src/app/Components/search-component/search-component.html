@@ -1,0 +1,54 @@
+<div class="container mt-5">
+
+  <h2>Suki's Animal Crossing Collectables</h2>
+
+
+  @if (bugsResource.isLoading() || fishResource.isLoading() || seaCreaturesResource.isLoading()) {
+  <p>Loading data…</p>
+  } @else if (bugsResource.error()) {
+  <p>Error</p>
+  } @else {
+
+  <!--FILTERS AND BUTTONS-->
+  <p-card header="Filters" class="my-5">
+    <p-button class="px-2" label="Get available collectables" (onClick)="getCollectables(1)" />
+    <p-button class="px-2" label="Get this month's collectables" (onClick)="getCollectables(2)" />
+    <p-button class="px-2" label="Get all collectables" (onClick)="getCollectables(3)" />
+    <div class="p-2">
+      <p-checkbox [(ngModel)]="showOnlyMissing" [binary]="true" inputId="showOnlyMissing" />
+      <label for="showOnlyMissing" class="ps-2"> Show only missing collectables </label>
+    </div>    
+    <div class="p-2">
+      <p-checkbox [(ngModel)]="showItsRaining" [binary]="true" inputId="showItsRaining" />
+      <label for="showItsRaining" class="ps-2"> It's raining </label>
+    </div>
+  </p-card>
+
+  <!--TABS-->
+  <p-tabs value="0">
+    <p-tablist>
+      <p-tab value="0">Bugs</p-tab>
+      <p-tab value="1">Fish</p-tab>
+      <p-tab value="2">Sea Creatures</p-tab>
+    </p-tablist>
+    <p-tabpanels>
+      <!--BUGS-->
+      <p-tabpanel value="0">
+        <app-results-component [availableOptions]="availableBugs()" [tableHeaders]="bugHeaders()" [typeEnum]="0"
+          [showOnlyMissing]="showOnlyMissing()" [showItsRaining]="showItsRaining()" [timeFilter]="timeFilter()"></app-results-component>
+      </p-tabpanel>
+
+      <!--FISH-->
+      <p-tabpanel value="1">
+        <app-results-component [availableOptions]="availableFish()" [tableHeaders]="fishHeaders()" [typeEnum]="1"
+          [showOnlyMissing]="showOnlyMissing()" [showItsRaining]="showItsRaining()" [timeFilter]="timeFilter()"></app-results-component>
+      </p-tabpanel>
+
+      <p-tabpanel value="2">
+        <app-results-component [availableOptions]="availableSeaCreatures()" [tableHeaders]="seaCreatureHeaders()" [typeEnum]="2" [showOnlyMissing]="showOnlyMissing()"  [showItsRaining]="showItsRaining()" [timeFilter]="timeFilter()"></app-results-component>
+      </p-tabpanel>
+
+    </p-tabpanels>
+  </p-tabs>
+  }
+</div>
